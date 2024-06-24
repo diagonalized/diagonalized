@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on game engine 🎮
-- 🌱 I’m currently learning game dev
-- ⚡ Fun fact: freudian?
+- 🔭 I’m currently working on word fun...
 
 <!--
 **oedipal/oedipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
